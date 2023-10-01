@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "ActronCodingChallange.sln",
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net7.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/147e5985-1a2c-46fe-af16-49800467b37c/resourceGroups/DefaultResourceGroup-EAU/providers/Microsoft.Web/sites/ActronCodingChallange"
+}
